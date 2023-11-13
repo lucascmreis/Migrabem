@@ -1,0 +1,23 @@
+{
+    "title": "Facilidades e Infraestrutura",
+    "blocks": [
+        {
+            "id": 1,
+            "title": "Serviços",
+            "description": "Seis agências bancárias, caixas eletrônicos, quatro casas lotéricas, agências dos Correios, Sabesp, Elektro e Telefônica, Cartórios, Fórum, centro de convenções, casa de shows, Espaço de Eventos.",
+            "icon": "/services/service4.svg"
+        },
+        {
+            "id": 2,
+            "title": "Esportes",
+            "description": "São dois ginásios poliesportivos, campos de futebol e quadras, aluguel de quadras de futebol soçaite e tênis, centro de artes marciais, ciclovias, bons trechos para caminhada e cooper, academias, pista de ultraleves, boliche, pista de skate indoor e cancha de bocha. No mar, destaque para o surfe e esportes náuticos. Prática de esportes de areia. ",
+            "icon": "/services/service5.svg"
+        },
+        {
+            "id": 3,
+            "title": "Comunicações",
+            "description": "Integram os meios de comunicação local, os jornais O Repórter Regional, A VOZ do Litoral Sul e Jornal do Caraguava; a rádio SAT FM; a radio Onda Brasil FM; a Web Rádio Jureia; e canais de televisão locais a cabo como a TV Vale das Artes e TV Litoral.",
+            "icon": "/services/service6.svg"
+        }
+    ]
+}

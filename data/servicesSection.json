@@ -1,22 +1,22 @@
 {
-    "title": "Featured Service that We Provide",
+    "title": "Facilidades e Infraestrutura",
     "blocks": [
         {
             "id": 1,
-            "title": "Keep tasks in one place",
-            "description": "Save time, avoid losing work and information, delegate, and track tasks to stay on schedule",
+            "title": "Saúde",
+            "description": "Não há hospital nem maternidade na cidade. Há postos de saúde nos bairros. Na rede particular, clínicas médicas e odontológicas e laboratórios de análises clínicas. No final de 2011, foi inaugurado, na cidade, o AME – Ambulatório Médico de Especialidades, mantido com recursos próprios do município. Foi inaugurado um UPA 24h (unidade de pronto atendimento 24 horas), com 1 500 metros quadrados. Iniciou-se a construção do primeiro hospital da cidade, com 54 leitos.",
             "icon": "/services/service1.svg"
         },
         {
             "id": 2,
-            "title": "Keep tasks in one place",
-            "description": "Save time, avoid losing work and information, delegate, and track tasks to stay on schedule",
+            "title": "Segurança pública",
+            "description": "Dois Distritos Policiais, Delegacia da Mulher, Companhia de Polícia Militar, Polícia Militar Ambiental, posto de salvamento dos Bombeiros, Corpo de Bombeiros, Tiro de Guerra e Departamento de Defesa Social e Guarda Municipal. Câmeras de vigilância nos principais pontos da cidade.",
             "icon": "/services/service2.svg"
         },
         {
             "id": 3,
-            "title": "Keep tasks in one place",
-            "description": "Save time, avoid losing work and information, delegate, and track tasks to stay on schedule",
+            "title": "Educação",
+            "description": "Possui rede de escolas municipais e estaduais da Educação Infantil ao Ensino Médio, Centro de Cursos Técnicos Profissionalizantes, uma biblioteca, uma faculdade e polos de educação a distância.",
             "icon": "/services/service3.svg"
         }
     ]
